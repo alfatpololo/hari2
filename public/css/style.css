@@ -1,0 +1,49 @@
+header{
+   background-color: white;
+   display: flex;
+   justify-content: space-between;
+   position: fixed;
+   top: 0;
+   width: 100%;
+}
+
+
+body {
+    background-image: url(../img/pattern.jpg);
+    margin: 0px;
+}
+
+li{
+   display: inline;
+   margin: 5px;
+}
+
+a{
+   text-decoration: none;
+}
+
+section{
+   background-color: white;
+   margin: 5% 8% 1%;
+   padding: 20px;
+}
+
+h1{
+   text-align: center;
+}
+
+article{
+   border-bottom: 2px solid gray;
+   margin-bottom: 15px;
+}
+
+footer{
+   background-color: black;
+   display: flex;
+   justify-content: center;
+}
+
+h5{
+   text-align: center;
+   color: white;
+}
